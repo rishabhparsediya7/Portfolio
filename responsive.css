@@ -1,0 +1,88 @@
+@media screen and (max-width:450px) {
+    .portfoliobox {
+        width: 153%;
+        margin-left: 2%;
+        margin-top: 10%;
+    }
+    .projects {
+        width: 153%;
+        margin-left: 2%;
+        margin-top: 10%;
+    }
+    .certificates {
+        width: 155%;
+        margin-left: 2%;
+        margin-top: 10%;
+    }
+    .roundimage {
+        height: 43vh;
+        width: 70vw;
+    }
+    .perimage {
+        margin-left: -30px;
+        width: 137%;
+    }
+    .perinfo {
+        margin-top: 304px;
+        width: 247%;
+    }
+    .imagediv {
+        margin-top: -36px;
+        margin-left: -169px;
+    }
+    .links {
+        width: 123%;
+        margin-right: 40px;
+    }
+    .socialmedia {
+        margin-left: -79px;
+    }
+    img {
+        height: 46vh;
+        width: 77vw;
+    }
+    /*-----------projects-----*/
+    .hrblock {
+        margin-left: -75px;
+        width: 138%;
+    }
+    .hrp {
+        font-size: 2rem;
+    }
+    .blockh {
+        height: 20px;
+    }
+    .gitblock {
+        margin-left: -75px;
+        width: 138%;
+        height: 375px;
+    }
+    .gitlogo {
+        height: 371px;
+    }
+    .fa-5x {
+        font-size: 12rem;
+    }
+    .cards {
+        width: 128%;
+        margin-left: -19px;
+    }
+    .card {}
+    .text-center {
+        font-size: 1.8rem;
+    }
+    .pro {
+        width: 148%;
+        margin-left: -90px;
+    }
+    .desc {
+        padding: 15px 0px;
+        font-size: 1.5rem;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    .page-footer {
+        width: 153%;
+        margin-left: 5px;
+    }
+}

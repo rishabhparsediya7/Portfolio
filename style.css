@@ -92,6 +92,10 @@ img {
     padding: 100px 100px;
 }
 
+.hrp {
+    font-size: 4rem;
+}
+
 .card {
     width: 100%;
     border-radius: 10px;
