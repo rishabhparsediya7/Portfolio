@@ -38,7 +38,7 @@ p {
     position: absolute;
 }
 
-img {
+.profilepic {
     border-radius: 50%;
     max-width: 100%;
     max-height: 100%;
@@ -320,4 +320,163 @@ a:hover {
 .page-footer {
     width: 99%;
     margin-left: 5px;
+}
+
+
+/* --------------------Acedemics------------------------------ */
+
+.academia {
+    height: 196vh;
+    background-color: white;
+    margin: 45px 100px;
+    box-shadow: 0px 0px 10px 0px grey;
+    padding: 100px 100px;
+}
+
+.photoacademia {
+    width: 118.8%;
+    margin-left: -104px;
+    margin-top: -100px;
+}
+
+.cseimage {
+    max-width: 100%;
+    border-radius: 0px;
+    width: 86vw;
+    height: 60vh;
+    margin-left: 3px;
+}
+
+.tr {
+    color: white;
+    font-size: 4rem;
+    margin-top: -240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.educationaldetails {
+    margin: 200px 0px;
+}
+
+.edu1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    /* border-right: #4361ee solid; */
+    border-right: gray solid;
+    height: 21rem;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: -10px;
+    color: gray;
+}
+
+.fa-briefcase {
+    margin-top: 20%;
+    margin-left: 175%;
+}
+
+.eduend {
+    margin-left: -155px;
+    color: gray;
+}
+
+.dura {
+    font-size: 1.9rem;
+}
+
+.description {
+    font-size: 1.6rem;
+    margin-bottom: 60px;
+}
+
+.eduH {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    margin: 40px 0px;
+}
+
+.school {
+    width: 145%;
+    margin-left: 38%;
+    color: gray;
+}
+
+.duraS {
+    width: 145%;
+    margin-left: 117%;
+    font-size: 1.9rem;
+    color: gray;
+}
+
+.descriptionS {
+    width: 145%;
+    margin-left: 60%;
+    font-size: 1.6rem;
+    color: gray;
+}
+
+.eduS {
+    width: 50%;
+    margin-left: -130%;
+}
+
+.line1 {
+    /* #4361ee */
+    border-right: gray solid;
+    height: 21rem;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: -80px;
+    color: gray;
+}
+
+.resume {
+    margin-top: 50px;
+    background-color: #0e141e;
+    width: 118%;
+    margin-left: -9%;
+    height: 69vh;
+}
+
+.hresumeblock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 100px 50px;
+}
+
+.resumeH {
+    color: white;
+    font-size: 2rem;
+}
+
+.rblock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 17%;
+    height: 55px;
+    margin-left: 40%;
+    color: black;
+    border-radius: 10px;
+}
+
+.resume a {
+    text-decoration: none;
+}
+
+.resume a:hover {
+    text-decoration: none;
 }
